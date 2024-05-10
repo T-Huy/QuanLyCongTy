@@ -501,8 +501,8 @@ INSERT INTO HoTro VALUES('DA003','CVSX002','NV023')
 INSERT INTO HoTro VALUES('DA003','CVSX003','NV024')
 INSERT INTO HoTro VALUES('DA003','CVSX003','NV025')
 INSERT INTO HoTro VALUES('DA005','CVTK002','NV017')
-GO
 
+GO
 CREATE FUNCTION dbo.TinhLuongTheoThang (@MaNV varchar(10), @Thang date)
 RETURNS int
 AS
@@ -520,15 +520,11 @@ BEGIN
     SELECT @TienThuong = ISNULL(SUM(TienThuong), 0)
     FROM PhanCong
     WHERE MaNV = @MaNV
-    AND MONTH(NgayBD) = MONTH(@Thang)
-    AND YEAR(NgayBD) = YEAR(@Thang)
+    AND MONTH(DeadLine) = MONTH(@Thang)
+    AND YEAR(DeadLine) = YEAR(@Thang)
 
     -- Tính tổng lương
     SET @TongLuong = @LuongCoBan + @TienThuong
 
     RETURN @TongLuong
 END
-
---DROP FUNCTION dbo.TinhLuongTheoThang;
-
---SELECT dbo.TinhLuongTheoThang('NV018', '2024-05-01') AS TongLuong;
