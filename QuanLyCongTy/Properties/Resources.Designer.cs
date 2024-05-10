@@ -723,9 +723,9 @@ namespace QuanLyCongTy.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap nhãnet1 {
+        internal static System.Drawing.Bitmap nhanet1 {
             get {
-                object obj = ResourceManager.GetObject("nhãnet1", resourceCulture);
+                object obj = ResourceManager.GetObject("nhanet1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

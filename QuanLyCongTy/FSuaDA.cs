@@ -44,7 +44,7 @@ namespace QuanLyCongTy
 
         private void btnSua_Click(object sender, EventArgs e)
         {
-            suaDABUS.SuaDA(txtTenDA, txtMoTa, cmbTenPB, txtDiaDiem, dtpNgayBD, dtpDeadline);
+            suaDABUS.SuaDA(txtTenDA, txtMoTa, cmbTenPB, txtDiaDiem, dtpNgayBD, dtpNgayBD);
             Close();
         }
 

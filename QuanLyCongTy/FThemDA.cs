@@ -38,11 +38,8 @@ namespace QuanLyCongTy
 
         private void btnThem_Click(object sender, EventArgs e)
         {
-            if(themDABUS.ThemDA(lblMaDA, txtTenDA, txtMoTa, cmbTenPB, txtDiaDiem, dtpNgayBD, dtpDeadline))
-            {
-                Close();
-            }
-            
+            themDABUS.ThemDA(lblMaDA, txtTenDA, txtMoTa, cmbTenPB, txtDiaDiem, dtpNgayBD, dtpDeadline);
+            Close();
         }
 
         private void btnHuy_Click(object sender, EventArgs e)
