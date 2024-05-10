@@ -26,8 +26,7 @@ namespace QuanLyCongTy.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-298HLM4\\SQLSERVER2022;Initial Catalog=QLCT;Persist Security I" +
-            "nfo=True;User ID=sa;Password=tanhuy;TrustServerCertificate=True")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=.;Initial Catalog=QLCT;User ID=sa;Password=tanhuy")]
         public string cnnStr {
             get {
                 return ((string)(this["cnnStr"]));
