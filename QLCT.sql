@@ -34,9 +34,9 @@ GO
 INSERT INTO NhanVien VALUES('NV001', N'Lê Tấn Huy', N'Bình Định', '0967675772', '2003-12-19', 'Nam', '092203232432', 'LTH@gmail.com', 'PBQL1', 'MLQL01')
 INSERT INTO NhanVien VALUES('NV002', N'Nguyễn Hữu Tiến', N'Quảng Nam', '0966696084', '2003-02-02', 'Nam', '095121551722', 'NHT@gmail.com', 'PBQL1', 'MLQL01')
 INSERT INTO NhanVien VALUES('NV003', N'Nguyễn Đăng Trường', N'Bến Tre', '0986810782', '2003-03-03', 'Nam', '093501761895', 'NDT@gmail.com', 'PBQL1', 'MLQL01')
+
 INSERT INTO NhanVien VALUES('NV004', N'Bùi Quang Thiện', N'Bến Tre', '0923232323', '2003-04-04', 'Nam', '098968366861', 'BQT@gmail.com', 'PBSX1', 'MLTP01')
 INSERT INTO NhanVien VALUES('NV005', N'Trần Tấn Phát', N'Bình Định', '0986865482', '2003-05-05', 'Nam', '098353536799', 'TTP@gmail.com', 'PBSX1', 'MLNV02')
-
 INSERT INTO NhanVien VALUES('NV006', N'Đỗ Đăng Khoa', 'HCM', '0929192796', '1989-06-06', 'Nam', '090107287746', 'DDK@gmail.com', 'PBSX1', 'MLNV01')
 INSERT INTO NhanVien VALUES('NV007', N'Đinh Mạnh Ninh', 'HCM', '0917934709', '1988-01-01', 'Nam', '091408184282', 'DMN@gmail.com', 'PBSX1', 'MLNV01')
 INSERT INTO NhanVien VALUES('NV008', N'Hà Minh Khôi', 'HCM', '0989886825', '1980-04-11', 'Nam', '094617396327', 'HMK@gmail.com', 'PBSX1', 'MLNV02')
