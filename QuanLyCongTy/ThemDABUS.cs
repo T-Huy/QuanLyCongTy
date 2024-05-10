@@ -42,17 +42,21 @@ namespace QuanLyCongTy
             lblMaDA.Text = MaxMaDA.Substring(0, 2) + (int.Parse(MaxMaDA.Substring(2, 3)) + 1).ToString("D3");
         }
 
-        public void ThemDA(Label lblMaDA, Guna2TextBox txtTenDA, Guna2TextBox txtMoTa, Guna2ComboBox cmbTenPB,
+        public bool ThemDA(Label lblMaDA, Guna2TextBox txtTenDA, Guna2TextBox txtMoTa, Guna2ComboBox cmbTenPB,
             Guna2TextBox txtDiaDiem, Guna2DateTimePicker dtpNgayBD, Guna2DateTimePicker dtpDeadLine)
         {
             DateTime ngaybd = DateTime.ParseExact(dtpNgayBD.Text, "dd/MM/yyyy", CultureInfo.InvariantCulture);
             DateTime ngaykt = DateTime.ParseExact(dtpDeadLine.Text, "dd/MM/yyyy", CultureInfo.InvariantCulture);
             if ( ngaybd < ngaykt && duAnDAO.Them(new DuAnModel(lblMaDA.Text, txtTenDA.Text, txtMoTa.Text, cmbTenPB.SelectedValue.ToString(),
-                txtDiaDiem.Text, dtpNgayBD.Value, dtpDeadLine.Value, "", -1, 0)) )
+                txtDiaDiem.Text, dtpNgayBD.Value, dtpDeadLine.Value, "", -1, 0)))
+            {
                 MessageBox.Show("Thêm thành công");
+                return true;
+            }
+                
             else
                 MessageBox.Show("Thêm thất bại");
-            return;
+            return false;
         }
 
         

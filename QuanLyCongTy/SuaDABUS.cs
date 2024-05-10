@@ -49,10 +49,9 @@ namespace QuanLyCongTy
         public void SuaDA(Guna2TextBox txtTenDA, Guna2TextBox txtMoTa, Guna2ComboBox cmbTenPB,
             Guna2TextBox txtDiaDiem, Guna2DateTimePicker dtpNgayBD, Guna2DateTimePicker dtpDeadLine)
         {
-            DateTime ngaybd = DateTime.ParseExact(dtpNgayBD.Text, "dd/MM/yyyy", CultureInfo.InvariantCulture);
-            DateTime ngaykt = DateTime.ParseExact(dtpDeadLine.Text, "dd/MM/yyyy", CultureInfo.InvariantCulture);
-            if (ngaybd < ngaykt && duAnDAO.Sua(new DuAnModel(da.MaDA, txtTenDA.Text, txtMoTa.Text, cmbTenPB.SelectedValue.ToString(),
-                txtDiaDiem.Text, dtpNgayBD.Value, dtpDeadLine.Value, "", -1, 0)))
+            
+            if ( dtpNgayBD.Value < dtpDeadLine.Value && duAnDAO.Sua(new DuAnModel(da.MaDA, txtTenDA.Text, txtMoTa.Text, cmbTenPB.SelectedValue.ToString(),
+                txtDiaDiem.Text, dtpNgayBD.Value, dtpDeadLine.Value, "", -1, 0)) )
                 MessageBox.Show("Sửa thành công");
             else
                 MessageBox.Show("Sửa thất bại");

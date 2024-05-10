@@ -32,8 +32,9 @@ namespace QuanLyCongTy
             HienThiDanhSach();
             themPhanCongBUS.FillcboNV(cmbNhanVien, dtpDBLam, dtpDeadline);
             themPhanCongBUS.FillcboCV(cmbCongViec);
-            dtpDBLam.Text = nbd.ToString();
+            dtpDBLam.Text= nbd.ToString();
             dtpDeadline.Text = nkt.ToString();
+            
         }
         private void HienThiDanhSach()
         {
@@ -42,8 +43,15 @@ namespace QuanLyCongTy
 
         private void btn_Them_Click(object sender, EventArgs e)
         {
-            themPhanCongBUS.ThemPC(cmbNhanVien, cmbCongViec, txtPhanCong,txtMoTa, ckbKhac, dtpDBLam, dtpDeadline);
-            Close();
+            if (dtpDBLam.Value <= dtpDeadline.Value && dtpDBLam.Value <= nkt && dtpDBLam.Value >= nbd && dtpDeadline.Value <= nkt && dtpDeadline.Value > nbd )
+            {
+                themPhanCongBUS.ThemPC(cmbNhanVien, cmbCongViec, txtPhanCong, txtMoTa, ckbKhac, dtpDBLam, dtpDeadline);
+                Close();
+            }
+            else
+            {
+                MessageBox.Show("Ngày bắt đầu và ngày kết thúc không hợp lẹ");
+            }
         }
 
         private void btnHuy_Click(object sender, EventArgs e)
@@ -53,12 +61,12 @@ namespace QuanLyCongTy
 
         private void dtpDBLam_ValueChanged(object sender, EventArgs e)
         {
-            PhanCong_Load(sender, e);
+            /*PhanCong_Load(sender, e);*/
         }
 
         private void dtpDeadline_ValueChanged(object sender, EventArgs e)
         {
-            PhanCong_Load(sender, e);
+            /*PhanCong_Load(sender, e);*/
         }
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)

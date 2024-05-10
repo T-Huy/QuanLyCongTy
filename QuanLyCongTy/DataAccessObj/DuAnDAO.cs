@@ -13,7 +13,7 @@ namespace QuanLyCongTy
     {
         DBConnection dbConn = new DBConnection();
         DataProvider dataProvider = new DataProvider();
-        SqlConnection conn = new SqlConnection("Data Source=.;Initial Catalog=QLCT;User ID=sa;Password=1510");
+        SqlConnection conn = new SqlConnection("Data Source=.;Initial Catalog=QLCT;User ID=sa;Password=123456");
 
         public DataTable LayDanhSachDuAnChuaHT()
         {
