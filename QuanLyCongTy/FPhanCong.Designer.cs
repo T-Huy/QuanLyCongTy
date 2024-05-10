@@ -457,6 +457,8 @@
         private System.Windows.Forms.Label lblCongViec;
         private Guna.UI2.WinForms.Guna2TextBox txtPhanCong;
         private Guna.UI2.WinForms.Guna2Panel guna2Panel1;
+        private Guna.UI2.WinForms.Guna2DateTimePicker dtpDeadline;
+        private Guna.UI2.WinForms.Guna2DateTimePicker dtpDBLam;
         private System.Windows.Forms.Label lblNgayBatDau;
         private System.Windows.Forms.Label lblThoiHan;
         private Guna.UI2.WinForms.Guna2Button btnHuy;
@@ -469,7 +471,5 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn tenNV;
         private System.Windows.Forms.DataGridViewTextBoxColumn NgayBD;
         private System.Windows.Forms.DataGridViewTextBoxColumn Deadline;
-        public Guna.UI2.WinForms.Guna2DateTimePicker dtpDeadline;
-        public Guna.UI2.WinForms.Guna2DateTimePicker dtpDBLam;
     }
 }

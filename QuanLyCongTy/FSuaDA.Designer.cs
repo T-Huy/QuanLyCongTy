@@ -562,6 +562,8 @@
         #endregion
         private Guna.UI2.WinForms.Guna2Button btnHuy;
         private Guna.UI2.WinForms.Guna2Button btnSua;
+        private Guna.UI2.WinForms.Guna2DateTimePicker dtpDeadline;
+        private Guna.UI2.WinForms.Guna2DateTimePicker dtpNgayBD;
         private Guna.UI2.WinForms.Guna2ComboBox cmbTenPB;
         private System.Windows.Forms.Label lbl_TenDA;
         private System.Windows.Forms.Label lbl_MoTa;
@@ -584,7 +586,5 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn NgayBD;
         private System.Windows.Forms.DataGridViewTextBoxColumn DL;
         private Guna.UI2.WinForms.Guna2Button btn_xoa;
-        public Guna.UI2.WinForms.Guna2DateTimePicker dtpDeadline;
-        public Guna.UI2.WinForms.Guna2DateTimePicker dtpNgayBD;
     }
 }

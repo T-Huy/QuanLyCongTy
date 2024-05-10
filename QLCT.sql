@@ -503,3 +503,32 @@ INSERT INTO HoTro VALUES('DA003','CVSX003','NV025')
 INSERT INTO HoTro VALUES('DA005','CVTK002','NV017')
 GO
 
+CREATE FUNCTION dbo.TinhLuongTheoThang (@MaNV varchar(10), @Thang date)
+RETURNS int
+AS
+BEGIN
+    DECLARE @LuongCoBan int
+    DECLARE @TienThuong int
+    DECLARE @TongLuong int
+
+    -- Lấy mức lương cơ bản của nhân viên từ bảng MucLuong
+    SELECT @LuongCoBan = MucLuong
+    FROM MucLuong
+    WHERE MaLuong = (SELECT MaLuong FROM NhanVien WHERE MaNV = @MaNV)
+
+    -- Tính tổng tiền thưởng của nhân viên trong tháng
+    SELECT @TienThuong = ISNULL(SUM(TienThuong), 0)
+    FROM PhanCong
+    WHERE MaNV = @MaNV
+    AND MONTH(NgayBD) = MONTH(@Thang)
+    AND YEAR(NgayBD) = YEAR(@Thang)
+
+    -- Tính tổng lương
+    SET @TongLuong = @LuongCoBan + @TienThuong
+
+    RETURN @TongLuong
+END
+
+DROP FUNCTION dbo.TinhLuongTheoThang;
+
+SELECT dbo.TinhLuongTheoThang('NV018', '2024-05-01') AS TongLuong;

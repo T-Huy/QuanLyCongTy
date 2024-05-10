@@ -89,5 +89,12 @@ namespace QuanLyCongTy
         {
             Close();
         }
+
+        private void btnTinhLuong_Click(object sender, EventArgs e)
+        {
+            lblTitle.Text = btnTinhLuong.Text;
+            OpenChildForm(new FTinhLuong());
+            moveImageBox(sender);
+        }
     }
 }
