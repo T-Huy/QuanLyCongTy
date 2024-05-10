@@ -1,0 +1,685 @@
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FCheckinout.resources
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FDangNhap.resources
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.Properties.Resources.resources
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FPhanCong.resources
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.GenerateResource.cache
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FDanhGia.resources
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FDuAn.resources
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.CoreCompileInputs.cache
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\bin\Debug\QuanLyCongTy.exe.config
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\bin\Debug\QuanLyCongTy.exe
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\bin\Debug\QuanLyCongTy.pdb
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.AssemblyReference.cache
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.SuggestedBindingRedirects.cache
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.exe
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.pdb
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.UC.resources
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.ucMenuBtn.resources
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongTin.resources
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXinNghi.resources
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FKPI.resources
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FChinhPhanCong.resources
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCTienDo.resources
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.ucXemPhanCong.resources
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThemTroGiup.resources
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongTinDA.resources
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanXet.resources
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FSuaDA.resources
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThemDA.resources
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FTienDo.resources
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FTienDoCaNhan.resources
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCSailorStar.resources
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCTienDoDA.resources
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXemDuAn.resources
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemDAChuaHT.resources
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemDADaHT.resources
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanVien.resources
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FQuanLy.resources
+D:\hc\CTDH\WinForm\Project\PJ_QLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FTruongPhong.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\bin\Debug\QuanLyCongTy.exe.config
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\bin\Debug\QuanLyCongTy.exe
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\bin\Debug\QuanLyCongTy.pdb
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.AssemblyReference.cache
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.SuggestedBindingRedirects.cache
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FCheckinout.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FChinhPhanCong.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FDangNhap.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FDuAn.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FKPI.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanVien.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FQuanLy.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FSuaDA.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThemDA.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongTin.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongTinDA.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FTruongPhong.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXemDuAn.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXinNghi.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.Properties.Resources.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FPhanCong.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThemTroGiup.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FTienDoCaNhan.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UC.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.ucMenuBtn.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCTienDo.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCTienDoDA.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemDAChuaHT.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemDADaHT.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemPhanCong.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCSailorStar.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.GenerateResource.cache
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.CoreCompileInputs.cache
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.exe
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.pdb
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongBao.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FLich.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanXetDA.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCNgay.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCBlank.resources
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.AssemblyReference.cache
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.SuggestedBindingRedirects.cache
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.FCheckinout.resources
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.FChinhPhanCong.resources
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.FDangNhap.resources
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.FDuAn.resources
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.FKPI.resources
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.FLich.resources
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanVien.resources
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanXetDA.resources
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.FQuanLy.resources
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.FSuaDA.resources
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThemDA.resources
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongBao.resources
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongTin.resources
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongTinDA.resources
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.FTruongPhong.resources
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXemDuAn.resources
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.Properties.Resources.resources
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.FPhanCong.resources
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThemTroGiup.resources
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.FTienDoCaNhan.resources
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.UC.resources
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.ucMenuBtn.resources
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCBlank.resources
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCNgay.resources
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCTienDo.resources
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCTienDoDA.resources
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemDAChuaHT.resources
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemDADaHT.resources
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemPhanCong.resources
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCSailorStar.resources
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.GenerateResource.cache
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.CoreCompileInputs.cache
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.exe
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.pdb
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\bin\Debug\QuanLyCongTy.exe.config
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\bin\Debug\QuanLyCongTy.exe
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\bin\Debug\QuanLyCongTy.pdb
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXinNghi.resources
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.Add.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\bin\Debug\QuanLyCongTy.exe.config
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\bin\Debug\QuanLyCongTy.exe
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\bin\Debug\QuanLyCongTy.pdb
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\bin\Debug\Guna.UI2.dll
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.AssemblyReference.cache
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.SuggestedBindingRedirects.cache
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FCheckinout.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FChinhPhanCong.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FDangNhap.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FDuAn.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FKPI.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FLich.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanVien.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanXetDA.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FQuanLy.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FSuaDA.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThemDA.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongBao.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongTin.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongTinDA.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FTruongPhong.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXemDuAn.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.Properties.Resources.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FPhanCong.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThemTroGiup.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.UC.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.ucMenuBtn.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCBlank.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCNgay.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCTienDoDA.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemDAChuaHT.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemDADaHT.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemPhanCong.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCSailorStar.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.Add.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXinNghi.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.GenerateResource.cache
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.CoreCompileInputs.cache
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.CopyComplete
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.exe
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.pdb
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FDuAn2.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXemDuAn2.resources
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\bin\Debug\Guna.UI2.dll
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.CopyComplete
+D:\hc\CTDH\WinForm\Project\Test\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXoaPC.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanXetDA_TruongPhong.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FTruongPhong2.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FQuanLy2.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanVien2.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FDangNhap2.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FSaiTK.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FCheckinout2.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FCapNhatTienDo.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemPhanCong_NhanVien.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FLich2.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FKPI2.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongTinDA2.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FPhanCong2.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThemTroGiup2.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FChiaThuong.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCThuongCaNhan.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FHoanThanhDuAn.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanSu.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.FTinhLuong.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_2\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCLuong.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.AssemblyReference.cache
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.SuggestedBindingRedirects.cache
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FCapNhatTienDo.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FCheckinout.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FChiaThuong.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FDangNhap.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FDuAn.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FHoanThanhDuAn.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FKPI.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FLich.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanSu.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanVien.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanXetDA.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanXetDA_TruongPhong.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FQuanLy.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FSaiTK.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FSuaDA.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThemDA.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongBao.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongTin.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongTinDA.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FTinhLuong.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FTruongPhong.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXemDuAn.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXoaPC.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.Properties.Resources.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FPhanCong.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThemTroGiup.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCLuong.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCThuongCaNhan.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemPhanCong_NhanVien.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCBlank.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCNgay.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCTienDoDA.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemDAChuaHT.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemDADaHT.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemPhanCong.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCSailorStar.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.Add.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXinNghi.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.GenerateResource.cache
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.CoreCompileInputs.cache
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.exe
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.pdb
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\bin\Debug\QuanLyCongTy.exe.config
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\bin\Debug\QuanLyCongTy.exe
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\bin\Debug\QuanLyCongTy.pdb
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\bin\Debug\Guna.UI2.dll
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.CopyComplete
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\bin\Debug\QuanLyCongTy.exe.config
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\bin\Debug\QuanLyCongTy.exe
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\bin\Debug\QuanLyCongTy.pdb
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\bin\Debug\Guna.UI2.dll
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.AssemblyReference.cache
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.SuggestedBindingRedirects.cache
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.FCapNhatTienDo.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.FCheckinout.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.FChiaThuong.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.FDangNhap.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.FDuAn.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.FHoanThanhDuAn.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.FKPI.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.FLich.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanSu.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanVien.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanXetDA.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanXetDA_TruongPhong.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.FPhanCong.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.FQuanLy.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.FSaiTK.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.FSuaDA.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThemDA.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThemTroGiup.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongBao.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongTin.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongTinDA.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.FTinhLuong.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.FTruongPhong.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXemDuAn.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXoaPC.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.Properties.Resources.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCLuong.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCThuongCaNhan.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemPhanCong_NhanVien.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCBlank.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCNgay.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCTienDoDA.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemDAChuaHT.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemDADaHT.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemPhanCong.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCSailorStar.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.Add.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXinNghi.resources
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.GenerateResource.cache
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.CoreCompileInputs.cache
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.CopyComplete
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.exe
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\obj\Debug\QuanLyCongTy.pdb
+D:\K2N2\Winform\PRJ_QuanLyCongTy_3\QuanLyCongTy\bin\Debug\Guna.UI.dll
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCPhanCongDaHT.resources
+D:\hc\CTDH\WinForm\Project\ProjectQLCT\QuanLyCongTy\obj\Debug\QuanLyCongTy.FChartDA.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\bin\Debug\QuanLyCongTy.exe.config
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\bin\Debug\QuanLyCongTy.exe
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\bin\Debug\QuanLyCongTy.pdb
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\bin\Debug\Guna.UI2.dll
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.AssemblyReference.cache
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.SuggestedBindingRedirects.cache
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.FCapNhatTienDo.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.FChartDA.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.FCheckinout.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.FChiaThuong.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.FDangNhap.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.FDuAn.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.FHoanThanhDuAn.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.FKPI.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.FLich.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanSu.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanVien.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanXetDA.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanXetDA_TruongPhong.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.FPhanCong.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.FQuanLy.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.FSaiTK.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.FSuaDA.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThemDA.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThemTroGiup.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongBao.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongTin.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongTinDA.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.FTinhLuong.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.FTruongPhong.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXemDuAn.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXoaPC.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.Properties.Resources.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCPhanCongDaHT.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCLuong.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCThuongCaNhan.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemPhanCong_NhanVien.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCBlank.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCNgay.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCTienDoDA.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemDAChuaHT.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemDADaHT.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemPhanCong.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCSailorStar.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.Add.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXinNghi.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.GenerateResource.cache
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.CoreCompileInputs.cache
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.CopyComplete
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.exe
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.pdb
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemXinNghiChuaDuyet.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLCT_Chinh\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemXinNghiDaDuyet.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\bin\Debug\QuanLyCongTy.exe.config
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\bin\Debug\QuanLyCongTy.exe
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\bin\Debug\QuanLyCongTy.pdb
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\bin\Debug\Guna.UI2.dll
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.AssemblyReference.cache
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.SuggestedBindingRedirects.cache
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FCapNhatTienDo.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FChartDA.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FCheckinout.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FChiaThuong.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FDangNhap.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FDuAn.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FHoanThanhDuAn.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FKPI.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FLich.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanSu.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanVien.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanXetDA.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanXetDA_TruongPhong.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FPhanCong.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FQuanLy.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FSaiTK.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FSuaDA.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThemDA.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThemTroGiup.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongBao.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongTin.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongTinDA.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FTinhLuong.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FTruongPhong.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXemDuAn.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXoaPC.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.Properties.Resources.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCPhanCongDaHT.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCLuong.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCThuongCaNhan.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemPhanCong_NhanVien.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCBlank.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCNgay.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCTienDoDA.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemDAChuaHT.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemDADaHT.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemPhanCong.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCSailorStar.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.Add.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXinNghi.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemXinNghiChuaDuyet.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemXinNghiDaDuyet.resources
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.GenerateResource.cache
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.CoreCompileInputs.cache
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.CopyComplete
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.exe
+C:\Lap_Trinh_Window\Git_Code\QLCTy\QLy\QuanLyCongTy\obj\Debug\QuanLyCongTy.pdb
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\bin\Debug\QuanLyCongTy.exe.config
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\bin\Debug\QuanLyCongTy.exe
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\bin\Debug\QuanLyCongTy.pdb
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\bin\Debug\Guna.UI2.dll
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.AssemblyReference.cache
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.SuggestedBindingRedirects.cache
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FCapNhatTienDo.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FChartDA.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FCheckinout.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FChiaThuong.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FDangNhap.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FDuAn.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FHoanThanhDuAn.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FKPI.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FLich.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanSu.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanVien.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanXetDA.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanXetDA_TruongPhong.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FPhanCong.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FQuanLy.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FSaiTK.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FSuaDA.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThemDA.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThemTroGiup.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongBao.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongTin.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongTinDA.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FTinhLuong.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FTruongPhong.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXemDuAn.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXoaPC.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.Properties.Resources.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCPhanCongDaHT.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCLuong.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCThuongCaNhan.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemPhanCong_NhanVien.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCBlank.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCNgay.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCTienDoDA.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemDAChuaHT.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemDADaHT.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemPhanCong.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCSailorStar.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.Add.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXinNghi.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemXinNghiChuaDuyet.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemXinNghiDaDuyet.resources
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.GenerateResource.cache
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.CoreCompileInputs.cache
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.CopyComplete
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.exe
+D:\winform\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.pdb
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\bin\Debug\QuanLyCongTy.exe.config
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\bin\Debug\QuanLyCongTy.exe
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\bin\Debug\QuanLyCongTy.pdb
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\bin\Debug\Guna.UI2.dll
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.AssemblyReference.cache
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FCapNhatTienDo.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FChartDA.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FCheckinout.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FChiaThuong.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FDangNhap.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FDuAn.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FHoanThanhDuAn.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FKPI.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FLich.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanSu.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanVien.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanXetDA.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanXetDA_TruongPhong.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FPhanCong.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FQuanLy.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FSaiTK.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FSuaDA.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThemDA.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThemTroGiup.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongBao.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongTin.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongTinDA.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FTinhLuong.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FTruongPhong.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXemDuAn.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXoaPC.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.Properties.Resources.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCPhanCongDaHT.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCLuong.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCThuongCaNhan.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemPhanCong_NhanVien.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCBlank.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCNgay.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCTienDoDA.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemDAChuaHT.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemDADaHT.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemPhanCong.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCSailorStar.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.Add.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXinNghi.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemXinNghiChuaDuyet.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemXinNghiDaDuyet.resources
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.GenerateResource.cache
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.CoreCompileInputs.cache
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.CopyComplete
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.exe
+D:\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.pdb
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\bin\Debug\QuanLyCongTy.exe.config
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\bin\Debug\QuanLyCongTy.exe
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\bin\Debug\QuanLyCongTy.pdb
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\bin\Debug\Guna.UI2.dll
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.AssemblyReference.cache
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.SuggestedBindingRedirects.cache
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FCapNhatTienDo.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FChartDA.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FCheckinout.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FChiaThuong.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FDangNhap.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FDuAn.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FHoanThanhDuAn.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FKPI.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FLich.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanSu.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanVien.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanXetDA.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanXetDA_TruongPhong.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FPhanCong.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FQuanLy.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FSaiTK.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FSuaDA.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThemDA.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThemTroGiup.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongBao.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongTin.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongTinDA.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FTinhLuong.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FTruongPhong.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXemDuAn.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXoaPC.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.Properties.Resources.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCPhanCongDaHT.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCLuong.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCThuongCaNhan.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemPhanCong_NhanVien.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCBlank.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCNgay.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCTienDoDA.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemDAChuaHT.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemDADaHT.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemPhanCong.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCSailorStar.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.Add.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXinNghi.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemXinNghiChuaDuyet.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemXinNghiDaDuyet.resources
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.GenerateResource.cache
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.CoreCompileInputs.cache
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.CopyComplete
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.exe
+C:\Users\21110\OneDrive\Máy tính\22\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.pdb
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\bin\Debug\QuanLyCongTy.exe.config
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\bin\Debug\QuanLyCongTy.exe
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\bin\Debug\QuanLyCongTy.pdb
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\bin\Debug\Guna.UI2.dll
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.AssemblyReference.cache
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.SuggestedBindingRedirects.cache
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FCapNhatTienDo.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FChartDA.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FCheckinout.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FChiaThuong.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FDangNhap.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FDuAn.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FHoanThanhDuAn.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FKPI.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FLich.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanSu.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanVien.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanXetDA.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanXetDA_TruongPhong.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FPhanCong.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FQuanLy.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FSaiTK.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FSuaDA.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThemDA.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThemTroGiup.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongBao.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongTin.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongTinDA.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FTinhLuong.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FTruongPhong.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXemDuAn.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXoaPC.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.Properties.Resources.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCPhanCongDaHT.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCLuong.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCThuongCaNhan.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemPhanCong_NhanVien.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCBlank.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCNgay.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCTienDoDA.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemDAChuaHT.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemDADaHT.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemPhanCong.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCSailorStar.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.Add.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXinNghi.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemXinNghiChuaDuyet.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemXinNghiDaDuyet.resources
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.GenerateResource.cache
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.CoreCompileInputs.cache
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.CopyComplete
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.exe
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.pdb
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\21110\Documents\Zalo Received Files\Project_CK\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.F_XuatDA.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.AssemblyReference.cache
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FCapNhatTienDo.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FChartDA.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FCheckinout.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FChiaThuong.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FDangNhap.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FDuAn.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FHoanThanhDuAn.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FKPI.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FLich.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanSu.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanVien.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanXetDA.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FNhanXetDA_TruongPhong.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FPhanCong.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FQuanLy.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FSaiTK.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FSuaDA.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThemDA.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThemTroGiup.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongBao.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongTin.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FThongTinDA.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FTinhLuong.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FTruongPhong.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXemDuAn.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXoaPC.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.F_XuatDA.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCPhanCongDaHT.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCLuong.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCThuongCaNhan.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemPhanCong_NhanVien.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCBlank.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCNgay.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCTienDoDA.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemDAChuaHT.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemDADaHT.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemPhanCong.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCSailorStar.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.Add.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.FXinNghi.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemXinNghiChuaDuyet.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.UCXemXinNghiDaDuyet.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.GenerateResource.cache
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.exe
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.pdb
+D:\QuanLyCongTy\QuanLyCongTy\bin\Debug\QuanLyCongTy.exe.config
+D:\QuanLyCongTy\QuanLyCongTy\bin\Debug\QuanLyCongTy.exe
+D:\QuanLyCongTy\QuanLyCongTy\bin\Debug\QuanLyCongTy.pdb
+D:\QuanLyCongTy\QuanLyCongTy\bin\Debug\Guna.UI2.dll
+D:\QuanLyCongTy\QuanLyCongTy\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\QuanLyCongTy\QuanLyCongTy\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\QuanLyCongTy\QuanLyCongTy\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\QuanLyCongTy\QuanLyCongTy\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\QuanLyCongTy\QuanLyCongTy\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\QuanLyCongTy\QuanLyCongTy\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\QuanLyCongTy\QuanLyCongTy\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\QuanLyCongTy\QuanLyCongTy\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\QuanLyCongTy\QuanLyCongTy\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\QuanLyCongTy\QuanLyCongTy\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\QuanLyCongTy\QuanLyCongTy\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\QuanLyCongTy\QuanLyCongTy\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.Properties.Resources.resources
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.CoreCompileInputs.cache
+D:\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.CopyComplete
