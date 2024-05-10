@@ -529,6 +529,6 @@ BEGIN
     RETURN @TongLuong
 END
 
-DROP FUNCTION dbo.TinhLuongTheoThang;
+--DROP FUNCTION dbo.TinhLuongTheoThang;
 
-SELECT dbo.TinhLuongTheoThang('NV018', '2024-05-01') AS TongLuong;
+--SELECT dbo.TinhLuongTheoThang('NV018', '2024-05-01') AS TongLuong;
