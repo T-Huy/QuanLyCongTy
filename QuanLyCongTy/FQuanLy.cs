@@ -96,5 +96,12 @@ namespace QuanLyCongTy
             OpenChildForm(new FTinhLuong());
             moveImageBox(sender);
         }
+
+        private void btnQuanlytaikhoan_Click(object sender, EventArgs e)
+        {
+            lblTitle.Text = btnQuanlytaikhoan.Text;
+            OpenChildForm(new FQuanlytaikhoan());
+            moveImageBox(sender);
+        }
     }
 }

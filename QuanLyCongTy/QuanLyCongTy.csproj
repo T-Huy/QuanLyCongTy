@@ -79,6 +79,24 @@
     <Compile Include="FChartDA.Designer.cs">
       <DependentUpon>FChartDA.cs</DependentUpon>
     </Compile>
+    <Compile Include="FQuanlytaikhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FQuanlytaikhoan.Designer.cs">
+      <DependentUpon>FQuanlytaikhoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FSuaTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FSuaTaiKhoan.Designer.cs">
+      <DependentUpon>FSuaTaiKhoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FThemTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FThemTaiKhoan.Designer.cs">
+      <DependentUpon>FThemTaiKhoan.cs</DependentUpon>
+    </Compile>
     <Compile Include="FXoaPC.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -418,6 +436,9 @@
     <EmbeddedResource Include="FChartDA.resx">
       <DependentUpon>FChartDA.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FQuanlytaikhoan.resx">
+      <DependentUpon>FQuanlytaikhoan.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FCheckinout.resx">
       <DependentUpon>FCheckinout.cs</DependentUpon>
     </EmbeddedResource>
@@ -465,6 +486,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FThemDA.resx">
       <DependentUpon>FThemDA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FSuaTaiKhoan.resx">
+      <DependentUpon>FSuaTaiKhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FThemTaiKhoan.resx">
+      <DependentUpon>FThemTaiKhoan.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FThemTroGiup.resx">
       <DependentUpon>FThemTroGiup.cs</DependentUpon>

@@ -31,6 +31,7 @@
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FQuanLy));
             this.pnlMenu = new Guna.UI2.WinForms.Guna2Panel();
+            this.btnTinhLuong = new Guna.UI2.WinForms.Guna2Button();
             this.lblThoat = new System.Windows.Forms.Label();
             this.btnXinNghi = new Guna.UI2.WinForms.Guna2Button();
             this.guna2PictureBox1 = new Guna.UI2.WinForms.Guna2PictureBox();
@@ -48,7 +49,7 @@
             this.guna2ControlBox3 = new Guna.UI2.WinForms.Guna2ControlBox();
             this.guna2ControlBox1 = new Guna.UI2.WinForms.Guna2ControlBox();
             this.guna2BorderlessForm1 = new Guna.UI2.WinForms.Guna2BorderlessForm(this.components);
-            this.btnTinhLuong = new Guna.UI2.WinForms.Guna2Button();
+            this.btnQuanlytaikhoan = new Guna.UI2.WinForms.Guna2Button();
             this.pnlMenu.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.imgSlide)).BeginInit();
@@ -61,6 +62,7 @@
             // 
             this.pnlMenu.BackColor = System.Drawing.Color.Transparent;
             this.pnlMenu.BorderRadius = 20;
+            this.pnlMenu.Controls.Add(this.btnQuanlytaikhoan);
             this.pnlMenu.Controls.Add(this.btnTinhLuong);
             this.pnlMenu.Controls.Add(this.lblThoat);
             this.pnlMenu.Controls.Add(this.btnXinNghi);
@@ -77,6 +79,30 @@
             this.pnlMenu.Name = "pnlMenu";
             this.pnlMenu.Size = new System.Drawing.Size(350, 740);
             this.pnlMenu.TabIndex = 2;
+            // 
+            // btnTinhLuong
+            // 
+            this.btnTinhLuong.BackColor = System.Drawing.Color.Transparent;
+            this.btnTinhLuong.BorderRadius = 22;
+            this.btnTinhLuong.ButtonMode = Guna.UI2.WinForms.Enums.ButtonMode.RadioButton;
+            this.btnTinhLuong.CheckedState.FillColor = System.Drawing.Color.White;
+            this.btnTinhLuong.CheckedState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(118)))), ((int)(((byte)(212)))));
+            this.btnTinhLuong.CheckedState.Image = global::QuanLyCongTy.Properties.Resources.wallet__1_;
+            this.btnTinhLuong.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnTinhLuong.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(118)))), ((int)(((byte)(212)))));
+            this.btnTinhLuong.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnTinhLuong.ForeColor = System.Drawing.Color.White;
+            this.btnTinhLuong.Image = global::QuanLyCongTy.Properties.Resources.wallet;
+            this.btnTinhLuong.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.btnTinhLuong.ImageOffset = new System.Drawing.Point(10, 0);
+            this.btnTinhLuong.ImageSize = new System.Drawing.Size(25, 25);
+            this.btnTinhLuong.Location = new System.Drawing.Point(76, 489);
+            this.btnTinhLuong.Name = "btnTinhLuong";
+            this.btnTinhLuong.Size = new System.Drawing.Size(247, 54);
+            this.btnTinhLuong.TabIndex = 41;
+            this.btnTinhLuong.Text = "Tính lương";
+            this.btnTinhLuong.UseTransparentBackground = true;
+            this.btnTinhLuong.Click += new System.EventHandler(this.btnTinhLuong_Click);
             // 
             // lblThoat
             // 
@@ -288,7 +314,7 @@
             this.lblTitle.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(118)))), ((int)(((byte)(212)))));
             this.lblTitle.Location = new System.Drawing.Point(686, 19);
             this.lblTitle.Name = "lblTitle";
-            this.lblTitle.Size = new System.Drawing.Size(295, 42);
+            this.lblTitle.Size = new System.Drawing.Size(367, 42);
             this.lblTitle.TabIndex = 1;
             this.lblTitle.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             // 
@@ -325,29 +351,29 @@
             this.guna2BorderlessForm1.DockIndicatorTransparencyValue = 0.6D;
             this.guna2BorderlessForm1.TransparentWhileDrag = true;
             // 
-            // btnTinhLuong
+            // btnQuanlytaikhoan
             // 
-            this.btnTinhLuong.BackColor = System.Drawing.Color.Transparent;
-            this.btnTinhLuong.BorderRadius = 22;
-            this.btnTinhLuong.ButtonMode = Guna.UI2.WinForms.Enums.ButtonMode.RadioButton;
-            this.btnTinhLuong.CheckedState.FillColor = System.Drawing.Color.White;
-            this.btnTinhLuong.CheckedState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(118)))), ((int)(((byte)(212)))));
-            this.btnTinhLuong.CheckedState.Image = global::QuanLyCongTy.Properties.Resources.wallet__1_;
-            this.btnTinhLuong.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnTinhLuong.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(118)))), ((int)(((byte)(212)))));
-            this.btnTinhLuong.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnTinhLuong.ForeColor = System.Drawing.Color.White;
-            this.btnTinhLuong.Image = global::QuanLyCongTy.Properties.Resources.wallet;
-            this.btnTinhLuong.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
-            this.btnTinhLuong.ImageOffset = new System.Drawing.Point(10, 0);
-            this.btnTinhLuong.ImageSize = new System.Drawing.Size(25, 25);
-            this.btnTinhLuong.Location = new System.Drawing.Point(76, 489);
-            this.btnTinhLuong.Name = "btnTinhLuong";
-            this.btnTinhLuong.Size = new System.Drawing.Size(247, 54);
-            this.btnTinhLuong.TabIndex = 41;
-            this.btnTinhLuong.Text = "Tính lương";
-            this.btnTinhLuong.UseTransparentBackground = true;
-            this.btnTinhLuong.Click += new System.EventHandler(this.btnTinhLuong_Click);
+            this.btnQuanlytaikhoan.BackColor = System.Drawing.Color.Transparent;
+            this.btnQuanlytaikhoan.BorderRadius = 22;
+            this.btnQuanlytaikhoan.ButtonMode = Guna.UI2.WinForms.Enums.ButtonMode.RadioButton;
+            this.btnQuanlytaikhoan.CheckedState.FillColor = System.Drawing.Color.White;
+            this.btnQuanlytaikhoan.CheckedState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(118)))), ((int)(((byte)(212)))));
+            this.btnQuanlytaikhoan.CheckedState.Image = global::QuanLyCongTy.Properties.Resources.wallet__1_;
+            this.btnQuanlytaikhoan.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnQuanlytaikhoan.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(118)))), ((int)(((byte)(212)))));
+            this.btnQuanlytaikhoan.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnQuanlytaikhoan.ForeColor = System.Drawing.Color.White;
+            this.btnQuanlytaikhoan.Image = global::QuanLyCongTy.Properties.Resources.social_responsibility;
+            this.btnQuanlytaikhoan.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.btnQuanlytaikhoan.ImageOffset = new System.Drawing.Point(10, 0);
+            this.btnQuanlytaikhoan.ImageSize = new System.Drawing.Size(25, 25);
+            this.btnQuanlytaikhoan.Location = new System.Drawing.Point(76, 562);
+            this.btnQuanlytaikhoan.Name = "btnQuanlytaikhoan";
+            this.btnQuanlytaikhoan.Size = new System.Drawing.Size(247, 54);
+            this.btnQuanlytaikhoan.TabIndex = 42;
+            this.btnQuanlytaikhoan.Text = "        Quản lý tài khoản";
+            this.btnQuanlytaikhoan.UseTransparentBackground = true;
+            this.btnQuanlytaikhoan.Click += new System.EventHandler(this.btnQuanlytaikhoan_Click);
             // 
             // FQuanLy
             // 
@@ -398,5 +424,6 @@
         private Guna.UI2.WinForms.Guna2ControlBox guna2ControlBox1;
         private Guna.UI2.WinForms.Guna2BorderlessForm guna2BorderlessForm1;
         private Guna.UI2.WinForms.Guna2Button btnTinhLuong;
+        private Guna.UI2.WinForms.Guna2Button btnQuanlytaikhoan;
     }
 }
